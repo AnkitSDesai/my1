@@ -30,4 +30,4 @@ let point1 = new Point();
 
 point1.draw();
 
-///,,,Some uodat es
+// Some Changes to Test
