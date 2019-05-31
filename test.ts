@@ -29,5 +29,4 @@ let point = new Point(1);
 let point1 = new Point();
 
 point1.draw();
-//Chnage in Master!!
-//Changes in Master!!!
+//Chnage in Fork!!
